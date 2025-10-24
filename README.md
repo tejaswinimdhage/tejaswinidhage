@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tejaswini Dhage
 
-💻 **Frontend Developer | React.js | Next.js | UI Engineer**
+💻 **Frontend Developer | React.js | Node.js | Next.js | UI Engineer**
 
 📍 Nagpur, Maharashtra, India  
 📧 [tejaswinidhage@gmail.com](mailto:tejaswinidhage@gmail.com)  
@@ -19,11 +19,11 @@ I love building scalable architectures, improving performance, and continuously 
 ## 🧠 Tech Stack
 
 **Frontend:** React.js · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Material-UI (MUI)  
-**State Management:** Redux · React Query  
+**State Management:** Redux · Tanstack Query  
 **Backend:** Node.js · REST APIs  
 **Dev Tools:** Git · GitHub · Vite · Sentry · JIRA · Lighthouse  
 **Testing:** React Testing Library  
-*(Skills extracted from your uploaded resume.)* :contentReference[oaicite:3]{index=3}
+<!-- *(Skills extracted from your uploaded resume.)* :contentReference[oaicite:3]{index=3} -->
 
 ---
 
@@ -39,14 +39,14 @@ I love building scalable architectures, improving performance, and continuously 
 ## 🌈 What I’m Currently Working On
 
 - Improving frontend performance metrics (Core Web Vitals)  
-- Learning **Next.js 14** features like Server Actions and Edge Middleware  
+- Learning **Next.js 15** features like Server Actions and Edge Middleware  
 - Exploring **Design Systems** and component libraries in large-scale apps
 
 ---
 
 ## 📊 GitHub Stats
 
-![Tejaswini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejaswinidhage&show_icons=true&theme=tokyonight)  
+<!-- ![Tejaswini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejaswinidhage&show_icons=true&theme=tokyonight)   -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswinidhage&layout=compact&theme=tokyonight)
 
 ---
